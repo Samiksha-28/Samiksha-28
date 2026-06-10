@@ -10,7 +10,7 @@
 - Learning Playwright and Framework Design
 
 ## Tech Stack
-https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg 
+[![My Skills](https://skillicons.dev/icons?i=java,cypress,eclipse,git,gherkin,maven,selenium,figma&theme=dark)](https://skillicons.dev)
 - Selenium WebDriver
 - TestNG
 - Maven
