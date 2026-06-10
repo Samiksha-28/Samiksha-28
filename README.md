@@ -10,13 +10,8 @@
 - Learning Playwright and Framework Design
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=java,cypress,eclipse,git,gherkin,maven,selenium,figma&theme=dark)](https://skillicons.dev)
-- Selenium WebDriver
-- TestNG
-- Maven
-- Postman
-- Jenkins
-- Git
+[![My Skills](https://skillicons.dev/icons?i=java,cypress,eclipse,git,gherkin,maven,selenium,jenkins,git,figma&theme=dark)](https://skillicons.dev)
+
 
 ## Current Focus
 - Automation Frameworks
