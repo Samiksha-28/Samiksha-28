@@ -1,16 +1,33 @@
-## Hi there 👋
 
-<!--
-**Samiksha-28/Samiksha-28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## Hi, I'm Samiksha 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## QA Automation Engineer
+
+- 4+ years in Manual Testing
+- 1 year in Automation Testing
+- Skilled in Selenium, Java, TestNG, API Testing
+- Learning Playwright and Framework Design
+
+## Tech Stack
+https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg 
+- Selenium WebDriver
+- TestNG
+- Maven
+- Postman
+- Jenkins
+- Git
+
+## Current Focus
+- Automation Frameworks
+- API Automation
+- CI/CD
+- Playwright
+
+## Projects
+- E-commerce Testing Framework
+- API Automation using Rest Assured
+- Selenium Hybrid Framework
+
+## Connect with Me
+- www.linkedin.com/in/samiksha-metha
